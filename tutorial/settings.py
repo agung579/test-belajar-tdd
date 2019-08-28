@@ -120,6 +120,6 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 # STATIC_ROOT = os.path.abspath(os.path.join(BASE_DIR, '../static'))
-STATIC_ROOT = '/root/sites/prod/static'
+STATIC_ROOT = '/root/sites/prod/static/'
 
 # APPEND_SLASH = False
